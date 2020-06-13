@@ -1,8 +1,10 @@
 # Tensorflow-Practice
-Implementation of various Neural Network Architectures using TensorFlow v2 
 
+### Under Construction!  
 
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation, for TF v2.
+
+Implementation of various Neural Network Architectures using TensorFlow v2 
 
 It is suitable for beginners who want to find clear and concise examples about TensorFlow. Besides the traditional 'raw' TensorFlow implementations, you can also find the latest TensorFlow API practices (such as `layers`, `estimator`, `dataset`, ...).
 
