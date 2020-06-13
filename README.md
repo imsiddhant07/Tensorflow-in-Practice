@@ -18,3 +18,6 @@ Readme will guide you step by step towards learning TF
 
 -**Basic Operations** ([open in notebook](https://github.com/siddhantjain07/Tensorflow-Practice/blob/master/BasicOperations.ipynb)) Simple implementation of basic mathematical operations in TensorFlow v2.
 
+
+### 2.Basic Models
+-**Linear Regression** ([open in notebbok](https://github.com/siddhantjain07/Tensorflow-Practice/blob/master/Linear_Regression.ipynb)) Implementing Univariate Regression in TensorFlow v2.
