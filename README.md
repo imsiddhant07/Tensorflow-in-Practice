@@ -13,5 +13,6 @@ Readme will guide you step by step towards learning TF
 
 ### 1.Introduction
 -**Hello World**([open in notebook](https://github.com/siddhantjain07/Tensorflow-Practice/blob/master/HelloWorld.ipynb))A traditional way to start code :)
--**Basic Operations**([open in notebook](https://github.com/siddhantjain07/Tensorflow-Practice/blob/master/BasicOperations.ipynb))Simple implementation of basic mathematical operations
+
+-**Basic Operations**([open in notebook](https://github.com/siddhantjain07/Tensorflow-Practice/blob/master/BasicOperations.ipynb))Simple implementation of basic mathematical operations in TensorFlow v2.
 
